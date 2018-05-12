@@ -1,0 +1,31 @@
+_repo: The-Heroic-Women-of-Early-Indiana-Methodism--An-Address-Delivered-Before-the-Indiana-Methodis__24472
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goodwin, T. A. (Thomas Aiken)
+    alias: Goodwin, Thomas Aiken
+    birthdate: 1818
+    deathdate: 1906
+    gutenberg_agent_id: '26516'
+    url: http://www.gutenberg.org/2009/agents/26516
+description: ''
+gutenberg_issued: '2008-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Christian life'
+- !lcsh 'Speeches, addresses, etc.'
+- !lcsh 'Methodist women -- Indiana -- Biography'
+- !lcsh 'Women in church work -- Methodist Church'
+title: 'The Heroic Women of Early Indiana Methodism: An Address Delivered Before the
+  Indiana Methodist Historical Society'
+url: http://www.gutenberg.org/ebooks/24472
